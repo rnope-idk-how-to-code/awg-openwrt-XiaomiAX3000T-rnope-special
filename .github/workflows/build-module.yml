@@ -28,7 +28,7 @@ jobs:
             subtarget: filogic
             vermagic: "6ace983a14b769f576fe9c4c7961bd89-r1"
 
-    steps:6ace983a14b769f576fe9c4c7961bd89-r1
+    steps:
       - uses: actions/checkout@v4
         with:
           repository: openwrt/openwrt
